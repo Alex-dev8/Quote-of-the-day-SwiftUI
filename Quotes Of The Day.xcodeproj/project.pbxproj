@@ -16,6 +16,7 @@
 		FA00D06B26FDC26D0027A1E0 /* QuoteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA00D06A26FDC26D0027A1E0 /* QuoteModel.swift */; };
 		FA00D06D26FDC2BB0027A1E0 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA00D06C26FDC2BB0027A1E0 /* DataService.swift */; };
 		FA00D06F26FDDE4E0027A1E0 /* DetailQuote.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA00D06E26FDDE4E0027A1E0 /* DetailQuote.swift */; };
+		FAF8769626FDEE9A00F38A0F /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF8769526FDEE9A00F38A0F /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		FA00D06A26FDC26D0027A1E0 /* QuoteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteModel.swift; sourceTree = "<group>"; };
 		FA00D06C26FDC2BB0027A1E0 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		FA00D06E26FDDE4E0027A1E0 /* DetailQuote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailQuote.swift; sourceTree = "<group>"; };
+		FAF8769526FDEE9A00F38A0F /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				FA00D06426FDBF940027A1E0 /* Data */,
 				FA00D06326FDBF8E0027A1E0 /* Models */,
 				FA00D06226FDBF870027A1E0 /* ViewModels */,
+				FAF8769526FDEE9A00F38A0F /* MyModel.swift */,
 				FA00D06126FDBF7C0027A1E0 /* Views */,
 				FA00D05726FDBEC70027A1E0 /* Assets.xcassets */,
 				FA00D05926FDBEC70027A1E0 /* Preview Content */,
@@ -194,6 +197,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA00D05626FDBEC50027A1E0 /* ContentView.swift in Sources */,
+				FAF8769626FDEE9A00F38A0F /* MyModel.swift in Sources */,
 				FA00D06926FDC23A0027A1E0 /* Quote.swift in Sources */,
 				FA00D06B26FDC26D0027A1E0 /* QuoteModel.swift in Sources */,
 				FA00D06F26FDDE4E0027A1E0 /* DetailQuote.swift in Sources */,
