@@ -20,7 +20,7 @@ struct ContentView: View {
                                 Image(q.image)
                                     .resizable()
                                     .scaledToFit()
-                                    .cornerRadius(12)
+                                    .cornerRadius(10)
                                     
                                     .padding()
 
