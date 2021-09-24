@@ -23,9 +23,7 @@ struct ContentView: View {
                                     .cornerRadius(12)
                                     
                                     .padding()
-                                    
-                                
-                                
+
                                 
                                 VStack(alignment: .leading) {
                                     Text(q.quote)
